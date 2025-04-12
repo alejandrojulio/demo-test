@@ -1,0 +1,10 @@
+{
+  "go.formatTool": "gopls",
+  "go.useLanguageServer": true,
+  "[go]": {
+    "editor.codeActionsOnSave": {
+      "source.organizeImports": true
+    },
+    "editor.formatOnSave": true
+  }
+}
